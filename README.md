@@ -1,1 +1,1 @@
-# stone-paper-scissors-game
+A simple and fun Stone Paper Scissors game built with HTML, CSS, and JavaScript. Challenge the computer in this classic game, with real-time results and dynamic visuals. This project demonstrates my ability to create interactive web applications with responsive design and clean code.
